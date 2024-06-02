@@ -2,8 +2,7 @@
   {
     "key": "iOSUser",
     "name": {
-      "de": "iOSUser",
-      "en": "iOSUser"
+      "en-US": "iOSUser"
     },
     "resourceTypeIds": [
       "customer"
@@ -12,8 +11,7 @@
       {
         "name": "apnsToken",
         "label": {
-          "en": "apnsToken",
-          "de": "apnsToken"
+          "en-US": "apnsToken"
         },
         "required": false,
         "type": {
@@ -24,8 +22,7 @@
       {
         "name": "myStore",
         "label": {
-          "en": "myStore",
-          "de": "meinLaden"
+          "en-US": "myStore"
         },
         "required": false,
         "type": {

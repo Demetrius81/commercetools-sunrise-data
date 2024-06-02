@@ -1,39 +1,39 @@
 [
     {
         "customerNumber": "1",
-        "email": "jane.doe@example.com",
-        "firstName": "Jane",
-        "lastName": "Doe",
-        "title": "Mrs",
-        "password": "p@ssword",
+        "email": "vasily@test.com",
+        "firstName": "Vasily",
+        "lastName": "Pupkin",
+        "title": "Mr",
+        "password": "Qq!1qqqq",
         "addresses": [
             {
                 "id": "PPM3YhMK",
-                "title": "Mrs.",
-                "firstName": "Jane",
-                "lastName": "Doe",
+                "title": "Mr.",
+                "firstName": "Vasily",
+                "lastName": "Pupkin",
                 "streetName": "First Street",
-                "streetNumber": "12",
-                "postalCode": "12345",
-                "city": "Example City",
-                "country": "NL",
-                "phone": "+312345678",
-                "mobile": "+312345679",
-                "email": "jane.doe@example.com"
+                "streetNumber": "2",
+                "postalCode": "222222",
+                "city": "Third City",
+                "country": "DE",
+                "phone": "+555555555555",
+                "mobile": "+777777777777",
+                "email": "vasily@test.com"
             },
             {
                 "id": "kzVASZ9O",
                 "title": "Head of factory",
-                "firstName": "Jane",
-                "lastName": "Doe",
-                "streetName": "Third Street",
-                "streetNumber": "34",
-                "postalCode": "12345",
+                "firstName": "Vasily",
+                "lastName": "Pupkin",
+                "streetName": "Eight Street",
+                "streetNumber": "88",
+                "postalCode": "333333",
                 "city": "Example City",
-                "country": "NL",
-                "phone": "+3112345678",
-                "mobile": "+3112345679",
-                "email": "jane.doe@example.com"
+                "country": "DE",
+                "phone": "+555555555555",
+                "mobile": "+777777777777",
+                "email": "vasily@test.com"
             }
         ],
         "shippingAddressIds": [
@@ -43,30 +43,30 @@
             "kzVASZ9O"
         ],
         "isEmailVerified": true,
-        "key": "janeDoe",
-        "dateOfBirth": "1974-09-20"
+        "key": "vasilyPupkin",
+        "dateOfBirth": "1970-01-01"
     },
     {
         "customerNumber": "2",
-        "email": "john.doe@example.com",
+        "email": "john.tester@example.com",
         "firstName": "John",
-        "lastName": "Doe",
+        "lastName": "Tester",
         "title": "Mr.",
-        "password": "p@ssword",
+        "password": "Qq!1qqqq",
         "addresses": [
             {
                 "id": "a-qURQXR",
                 "title": "Mr.",
                 "firstName": "John",
-                "lastName": "Doe",
+                "lastName": "Tester",
                 "streetName": "Second Street",
                 "streetNumber": "13",
-                "postalCode": "12345",
+                "postalCode": "111111",
                 "city": "Example City",
-                "country": "NL",
-                "phone": "+31123456780",
-                "mobile": "+31123456781",
-                "email": "john.doe@example.com"
+                "country": "DE",
+                "phone": "+444444444444",
+                "mobile": "+333333333333",
+                "email": "john.tester@example.com"
             }
         ],
         "shippingAddressIds": [
@@ -76,8 +76,8 @@
             "a-qURQXR"
         ],
         "isEmailVerified": true,
-        "key": "johnDoe",
-        "dateOfBirth": "1943-12-18",
+        "key": "johnTester",
+        "dateOfBirth": "1983-12-18",
         "companyName": "Example Company"
     }
 ]
